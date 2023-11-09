@@ -133,10 +133,10 @@ while True:
 
 Circuito del ChatGTP
 
-![](Circuito.jgp)
+![](Circuito.jgep)
 
 Pregunta al Chat
 
-![](Prendido.jpg)
+![](Prendido.png)
 
 ![](Prendido1.jpg)
