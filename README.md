@@ -137,6 +137,6 @@ Circuito del ChatGTP
 
 Pregunta al Chat
 
-![](1.png)
+![](1.PNG)
 
 ![](1.jpg)
