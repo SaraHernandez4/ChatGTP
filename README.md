@@ -138,3 +138,5 @@ Circuito del ChatGTP
 Pregunta al Chat
 
 ![](Prendido.jpg)
+
+![](Prendido1.jpg)
